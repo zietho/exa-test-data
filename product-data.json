@@ -1,24 +1,24 @@
 {
 	'products': [{
-			'name': My insurance 1,
+			'name': "My insurance 1",
 			'price': 20,
 			'currency': "Dollar",
 			'currencyTag': "$"
 		},
 		{
-			'name': My insurance 2,
+			'name': "My insurance 2",
 			'price': 40,
 			'currency': "Dollar",
 			'currencyTag': "$"
 		},
 		{
-			'name': My insurance 3,
+			'name': "My insurance 3",
 			'price': 100,
 			'currency': "Dollar",
 			'currencyTag': "$"
 		},
 		{
-			'name': My insurance 4,
+			'name': "My insurance 4",
 			'price': 200,
 			'currency': "Dollar",
 			'currencyTag': "$"
